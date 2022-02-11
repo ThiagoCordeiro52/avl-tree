@@ -1,9 +1,5 @@
 # Identificação Pessoal
 
-- Nome: *José Davi Viana Francelino*
-- Email: *jose.davi@imd.ufrn.br*
-- Turma: *DIM0117 - T01*
-
 - Nome: *Rafael Silva Freire*
 - Email: *rafaelsilvafreire2@gmail.com*
 - Turma: *DIM0117 - T01*

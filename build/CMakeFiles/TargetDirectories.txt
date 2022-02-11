@@ -1,0 +1,3 @@
+/home/thiagoty52/avl-tree/build/CMakeFiles/rebuild_cache.dir
+/home/thiagoty52/avl-tree/build/CMakeFiles/edit_cache.dir
+/home/thiagoty52/avl-tree/build/CMakeFiles/tree.dir
